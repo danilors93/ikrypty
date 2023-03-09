@@ -4,7 +4,7 @@
 - 🐱‍💻 Estou aprendendo Javascript, HTML, CSS, MySql e algumas outras linguagens.
 - 📫 Contato pelo e-mail: danilo93.rodrigues@gmail.com
 - 😄 Pronomes: ele/dele
-- ⚡ Fun fact: Sou Psicólogo graduado aprendendo programação. De humanas a programação! 🤷‍♂️
+- ⚡ Fun fact: Sou Psicólogo graduado. De humanas a programação! 🤷‍♂️
 
 <div align="center">
   <a href="https://github.com/ikrypty">
