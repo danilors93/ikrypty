@@ -1,7 +1,7 @@
 ### Olá! Eu sou Danilo! 👋
 
 - 📝 Hoje trabalho como desenvolvedor RPA. Mas faço projetos Front end e Back end.
-- 🐱‍💻 Trabalho principalmente com Python e C#, mas também tenho conhecimento em outras linguagens Front e Back end.
+- 🐱‍💻 Trabalho principalmente com C# e Python, mas também tenho conhecimento em outras linguagens Front e Back end.
 - 📫 Contato pelo e-mail: danilo93.rodrigues@gmail.com
 - 😄 Pronomes: ele/dele
 - ⚡ Fun fact: Sou Psicólogo graduado. De humanas a programação! 🤷‍♂️
