@@ -1,7 +1,7 @@
 ### Olá! Eu sou Danilo! 👋
 
-- 📝 Hoje trabalho como desenvolvedor RPA. Mas faço projetos Front end e Back end.
-- 🐱‍💻 Trabalho principalmente com C# e Python, mas também tenho conhecimento em outras linguagens Front e Back end.
+- 📝 Sou um desenvolvedor de Software com conhecimentos em back end e básico de front end.
+- 🐱‍💻 Trabalho principalmente com C#, mas também tenho conhecimento em outras linguagens Front e Back end.
 - 📫 Contato pelo e-mail: danilo93.rodrigues@gmail.com
 - 😄 Pronomes: ele/dele
 - ⚡ Fun fact: Sou Psicólogo graduado. De humanas a programação! 🤷‍♂️
@@ -17,9 +17,12 @@
   <img align="center" alt="Dan-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Dan-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Dan-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Dan-SQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">
+  <img align="center" alt="Dan-.NET" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg">
 </div>
   <img align="right" alt="Dan-pic" height="150" style="border-radius:50px;" src="http://clubedosgeeks.com.br/wp-content/uploads/2016/01/dormrm.gif">
 </div>
+
 
   ##
   
