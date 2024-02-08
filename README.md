@@ -1,10 +1,10 @@
 ### Olá! Eu sou Danilo! 👋
 
-- 📝 Sou um desenvolvedor de Software com conhecimentos em back end e básico de front end.
-- 🐱‍💻 Trabalho principalmente com C#, mas também tenho conhecimento em outras linguagens Front e Back end.
-- 📫 Contato pelo e-mail: danilo93.rodrigues@gmail.com
-- 😄 Pronomes: ele/dele
-- ⚡ Fun fact: Sou Psicólogo graduado. De humanas a programação! 🤷‍♂️
+- 📝 I am a Software Developer with knowledge in back end and basic front end.
+- 🐱‍💻 I mainly work with C#, but I also have knowledge in other Front and Back end languages.
+- 📫 Contact via email: danilo93.rodrigues@gmail.com
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I am a graduated Psychologist. From humanities to programming! 🤷‍♂️
 
 <div align="center">
   <a href="https://github.com/ikrypty">
