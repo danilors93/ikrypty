@@ -1,6 +1,6 @@
 ### Olá! Eu sou Danilo! 👋
 
-- 📝 I am a Software Developer with knowledge in back end and basic front end.
+- 📝 I am a Software Developer with knowledge in back end and front end.
 - 🐱‍💻 I mainly work with C#, but I also have knowledge in other Front and Back end languages.
 - 📫 Contact via email: danilo93.rodrigues@gmail.com
 - 😄 Pronouns: he/him
